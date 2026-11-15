@@ -1,3 +1,165 @@
 2026.11.15 13:26:08 INFO  Started: Metals version 1.6.9 in folders 'D:\P3' for client Visual Studio Code 1.146.0.
 2026.11.15 13:26:08 INFO  time: initialize in 0.13s
 2026.11.15 13:26:08 INFO  Memory monitor started
+2026.11.15 13:26:13 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.15 13:26:16 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:26:16 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:26:17 WARN  no build target for: D:\P3\src\test\java\AppTest.java
+2026.11.15 13:26:17 WARN  Could not calculate checksum for mvn in D:\P3
+2026.11.15 13:26:17 WARN  Build server is not auto-connectable.
+2026.11.15 13:26:17 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:26:17 WARN  no build target for: D:\P3\src\test\java\AppTest.java
+Nov 15, 2026 1:26:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.11.15 13:26:17 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:26:20 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:26:24 INFO  time: code lens generation in 4.81s
+2026.11.15 13:26:24 WARN  Running javac-semanticdb failed for file:///D:/P3/src/main/java/com/demo/App.java. Output:
+
+2026.11.15 13:26:24 INFO  time: code lens generation in 7.11s
+2026.11.15 13:26:24 INFO  time: code lens generation in 7.12s
+2026.11.15 13:26:27 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:26:30 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:29:01 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:29:01 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:29:03 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:29:03 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:29:03 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:29:04 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+Nov 15, 2026 1:29:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2026.11.15 13:29:04 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+Nov 15, 2026 1:29:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 15, 2026 1:29:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.15 13:29:41 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:29:42 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+Nov 15, 2026 1:29:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.15 13:29:50 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:29:50 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:29:51 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:29:51 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:29:51 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:29:53 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:29:53 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:29:53 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:29:54 WARN  no build target for: D:\P3\src\test\java\AppTest.java
+2026.11.15 13:29:53 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:29:54 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:29:53 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:29:55 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:30:00 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:30:01 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:01 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:03 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:03 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:03 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:04 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:05 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:05 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:30:05 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:05 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:05 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:05 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:06 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:06 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:06 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:07 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:08 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:30:08 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:10 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:30:10 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:11 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:30:11 WARN  no build target for: D:\P3\src\test\java\AppTest.java
+2026.11.15 13:30:11 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:30:12 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:12 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:30:12 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:12 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:15 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:30:15 WARN  no build target for: D:\P3\src\test\java\AppTest.java
+2026.11.15 13:30:15 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:30:16 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:16 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:30:16 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:19 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:20 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:20 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:30:20 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:20 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:24 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:26 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:26 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:29 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:29 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:29 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:30 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:30 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:31 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:31 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:32 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:32 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:33 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:30:33 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:34 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:34 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:34 WARN  Running javac-semanticdb failed for file:///D:/P3/src/main/java/com/demo/App.java. Output:
+
+2026.11.15 13:30:34 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:34 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:35 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:30:35 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:43 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:30:43 WARN  no build target for: D:\P3\src\test\java\AppTest.java
+2026.11.15 13:30:43 INFO  no build target found for D:\P3\src\test\java\AppTest.java. Using fallback presentation compiler.
+2026.11.15 13:30:44 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:44 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:30:44 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:45 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:44 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:30:44 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:32:28 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:32:28 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:32:28 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:32:38 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:32:38 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:32:39 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:32:39 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:32:39 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:32:39 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:33:04 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:33:04 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:13 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:13 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:13 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:13 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:13 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:14 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:14 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:15 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:34:15 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:16 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:16 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:16 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:16 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:16 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:17 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:34:17 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:34:57 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:34:57 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:36:10 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:36:10 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:36:12 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:36:12 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:36:12 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:36:12 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:36:13 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:36:13 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:36:13 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:36:14 WARN  no build target for: D:\P3\src\main\java\com\demo\App.java
+2026.11.15 13:36:14 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+2026.11.15 13:38:45 INFO  no build target found for D:\P3\src\main\java\com\demo\App.java. Using fallback presentation compiler.
+Nov 15, 2026 1:41:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
